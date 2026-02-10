@@ -68,6 +68,7 @@ employee("Daniel", "Thompson", "Backend Developer", "Male", 41)
 employee("Sarah", "Williams", "Project Manager", "Female", 36)
 employee("James", "Anderson", "Data Analyst", "Male", 30)
 
-
+def student (name, age, gender) :
+    print(name, age, gender)
 
 
